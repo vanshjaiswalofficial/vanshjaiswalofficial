@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg" width="100%" style="border-radius: 10px;"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHwUruIV-CA0w/profile-displaybackgroundimage-shrink_350_1400/B4DZcM8ap_GgAk-/0/1748268854779?e=1770854400&v=beta&t=R4ywfQ-G4_d8YXimm1G1AWu5jJD1i3aYXRUiFyEIR0A" width="100%" style="border-radius: 10px;"/>
 </div>
 
 <hr>
