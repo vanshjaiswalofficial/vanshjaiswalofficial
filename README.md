@@ -27,30 +27,6 @@
 
 ---
 
-### 📊 **GitHub Statistics**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshjaiswalofficial&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshjaiswalofficial&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshjaiswalofficial&theme=radical&hide_border=true&background=0D1117" />
-</div>
-
----
-
-### 📈 **Contribution Graph**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshjaiswalofficial&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" />
-</div>
-
----
-
 ### 🧠 **Random Dev Quote**
 
 <div align="center">
