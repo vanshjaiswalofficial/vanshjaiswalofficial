@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHwUruIV-CA0w/profile-displaybackgroundimage-shrink_350_1400/B4DZcM8ap_GgAk-/0/1748268854779?e=1773273600&v=beta&t=mbp5LqX9lln7PvqxPDIdJPRB6zV-_71ynMYDyc_tnTk"/>
-</div>
-
-<hr>
-
-<div align="center">
   <h2>Hi, I’m Vansh Jaiswal BTech CSE Student Chameli Devi Group of Institutions Passionate about becoming a Software Engineer.</h2>
 </div>
 
