@@ -5,10 +5,10 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vanshjaiswalofficial/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> &nbsp;
-<a href="mailto:vanshjaiswalofficial@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> &nbsp;
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=vanshjaiswalofficial@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> &nbsp;
 <a href="https://github.com/vanshjaiswalofficial" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github" /></a> &nbsp;
-<a href="https://https://leetcode.com/u/obacP6w12P/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode" /></a> &nbsp;
-<a href="https://https://www.geeksforgeeks.org/profile/vanshjaiswazlv9?tab=overview" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+<a href="https://leetcode.com/u/obacP6w12P/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode" /></a> &nbsp;
+<a href="https://www.geeksforgeeks.org/profile/vanshjaiswazlv9?tab=overview" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 </p>
 
 </div>
